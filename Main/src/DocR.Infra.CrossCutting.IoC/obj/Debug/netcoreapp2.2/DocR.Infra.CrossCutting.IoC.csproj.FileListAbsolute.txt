@@ -1,0 +1,16 @@
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\DocR.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\DocR.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\DocR.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\DocR.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\DocR.Infra.CrossCutting.IoC.deps.json
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\DocR.Infra.CrossCutting.IoC.dll
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\DocR.Infra.CrossCutting.IoC.pdb
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\DocR.Domain.Core.dll
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\DocR.Domain.dll
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\DocR.Infra.CrossCutting.Identity.dll
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\DocR.Domain.Core.pdb
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\DocR.Domain.pdb
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\DocR.Infra.CrossCutting.Identity.pdb
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\DocR.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\DocR.Infra.CrossCutting.IoC.dll
+C:\Projetos\DocR\src\DocR.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\DocR.Infra.CrossCutting.IoC.pdb

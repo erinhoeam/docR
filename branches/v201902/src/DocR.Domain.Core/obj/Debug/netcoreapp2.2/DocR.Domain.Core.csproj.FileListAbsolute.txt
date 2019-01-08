@@ -1,0 +1,9 @@
+C:\Projetos\DocR\branches\v201902\src\DocR.Domain.Core\bin\Debug\netcoreapp2.2\DocR.Domain.Core.deps.json
+C:\Projetos\DocR\branches\v201902\src\DocR.Domain.Core\bin\Debug\netcoreapp2.2\DocR.Domain.Core.dll
+C:\Projetos\DocR\branches\v201902\src\DocR.Domain.Core\bin\Debug\netcoreapp2.2\DocR.Domain.Core.pdb
+C:\Projetos\DocR\branches\v201902\src\DocR.Domain.Core\obj\Debug\netcoreapp2.2\DocR.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\DocR\branches\v201902\src\DocR.Domain.Core\obj\Debug\netcoreapp2.2\DocR.Domain.Core.AssemblyInfoInputs.cache
+C:\Projetos\DocR\branches\v201902\src\DocR.Domain.Core\obj\Debug\netcoreapp2.2\DocR.Domain.Core.AssemblyInfo.cs
+C:\Projetos\DocR\branches\v201902\src\DocR.Domain.Core\obj\Debug\netcoreapp2.2\DocR.Domain.Core.dll
+C:\Projetos\DocR\branches\v201902\src\DocR.Domain.Core\obj\Debug\netcoreapp2.2\DocR.Domain.Core.pdb
+C:\Projetos\DocR\branches\v201902\src\DocR.Domain.Core\obj\Debug\netcoreapp2.2\DocR.Domain.Core.csprojAssemblyReference.cache
