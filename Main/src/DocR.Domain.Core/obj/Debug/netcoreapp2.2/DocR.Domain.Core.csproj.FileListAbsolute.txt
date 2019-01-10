@@ -1,8 +1,0 @@
-C:\Projetos\DocR\src\DocR.Domain.Core\bin\Debug\netcoreapp2.2\DocR.Domain.Core.deps.json
-C:\Projetos\DocR\src\DocR.Domain.Core\bin\Debug\netcoreapp2.2\DocR.Domain.Core.dll
-C:\Projetos\DocR\src\DocR.Domain.Core\bin\Debug\netcoreapp2.2\DocR.Domain.Core.pdb
-C:\Projetos\DocR\src\DocR.Domain.Core\obj\Debug\netcoreapp2.2\DocR.Domain.Core.csproj.CoreCompileInputs.cache
-C:\Projetos\DocR\src\DocR.Domain.Core\obj\Debug\netcoreapp2.2\DocR.Domain.Core.AssemblyInfoInputs.cache
-C:\Projetos\DocR\src\DocR.Domain.Core\obj\Debug\netcoreapp2.2\DocR.Domain.Core.AssemblyInfo.cs
-C:\Projetos\DocR\src\DocR.Domain.Core\obj\Debug\netcoreapp2.2\DocR.Domain.Core.dll
-C:\Projetos\DocR\src\DocR.Domain.Core\obj\Debug\netcoreapp2.2\DocR.Domain.Core.pdb

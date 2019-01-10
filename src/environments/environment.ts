@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  urlServiceV1: "https://docr-service.azurewebsites.net/api/v1/",
+  urlServiceViaCep: "https://viacep.com.br/ws/",
 };
 
 /*

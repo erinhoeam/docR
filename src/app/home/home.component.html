@@ -1,0 +1,41 @@
+<div class="container">
+    <div class="jumbotron mt-3">
+        <h1 class="display-3">DocR</h1>
+        <p class="lead">Reconhecimento de Documentos</p>
+        <hr class="my-2">
+        <p>Documento</p>
+        <p class="lead">
+            <input type="file" (change)="fileChange($event)" class="form-control-file" role="button" />
+        </p>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+              <img class="img-fluid" placeholder="Documento" accept=".jpg,.bmp,.png" src="{{fileName}}" />
+            </div>
+        </div>
+        <hr />
+        <div class="row" *ngFor='let documento of documentos'>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="card" >
+                    <div class="card-header">
+                        {{documento.nome}}
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <progressbar [value]=documento.precisao type="success" [striped]="true">{{documento.precisao}}%</progressbar>
+                                <hr />
+                                <p *ngFor='let campo of documento.campos' class="card-text">
+                                    <span class="bold">{{campo.rotulo}}:</span>&nbsp;
+                                    <span>{{campo.valor}}</span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <hr />
+                <br />
+            </div>
+        </div>
+    </div>
+</div>
