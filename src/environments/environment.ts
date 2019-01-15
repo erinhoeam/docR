@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  urlServiceV1: "https://docr-service.azurewebsites.net/api/v1/",
+  urlServiceV1: "http://localhost:5285/api/v1/",
   urlServiceViaCep: "https://viacep.com.br/ws/",
 };
 

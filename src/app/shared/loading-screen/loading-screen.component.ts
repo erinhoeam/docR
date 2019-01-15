@@ -20,7 +20,6 @@ export class LoadingScreenComponent implements OnInit {
     this.loadingSubscription = this.loadingScreenService.loadingStatus.pipe(
       debounceTime(200)
     ).subscribe((value) => {
-      console.log(value);
       this.loading = value;
     });
   }
